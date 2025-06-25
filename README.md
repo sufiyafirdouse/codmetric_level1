@@ -5,7 +5,7 @@ This Python programming-focused project was created as a component of my interns
  - Addition
 - Subtraction 
 - Multiplication
-Division (with divide-by-zero error handling)
+- Division (with divide-by-zero error handling)
 ✅ Menu-driven interface for ongoing computations
 ✅ Gently handles invalid numeric input
 
